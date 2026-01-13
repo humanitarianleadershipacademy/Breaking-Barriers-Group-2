@@ -1,6 +1,6 @@
 # AWS Breaking Barriers Synthetic Datasets
 
-The Kaya learning management system has over 800 public courses, one-million learner records and two-million completion records. The following synthetic datasets are provided for this AWS challenge:
+The Kaya learning management system has over 800 public courses, one-million learner records and two-million completion records. The following synthetic datasets are provided for this challenge:
 
 | File | Description |
 | --- | --- |
