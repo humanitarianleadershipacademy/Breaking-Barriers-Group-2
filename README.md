@@ -9,6 +9,7 @@ In this repoository you will find the following:
 | [BreakingBarriersIdea1.md](./BreakingBarriersIdea1.md) | Brief for the first hack challenge |
 | [BreakingBarriersIdea2.md](./BreakingBarriersIdea2.md) | Brief for the second hack challenge |
 | [/datasets/](./dataset/) | Folder that contains the synthetic data to be used for the challenges |
+| [/docs/](./docs/) | Folder that contains example documents and forms currently used for recruitment |
 
 
 
