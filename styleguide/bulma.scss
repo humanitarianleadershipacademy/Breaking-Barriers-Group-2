@@ -1,0 +1,45 @@
+$black: hsl(221, 14%, 4%) !default;
+$black-bis: hsl(221, 14%, 9%) !default;
+$black-ter: hsl(221, 14%, 14%) !default;
+
+$grey-darker: hsl(221, 14%, 21%) !default;
+$grey-dark: hsl(221, 14%, 29%) !default;
+$grey: hsl(221, 14%, 48%) !default;
+$grey-light: hsl(221, 14%, 71%) !default;
+$grey-lighter: hsl(221, 14%, 86%) !default;
+$grey-lightest: hsl(221, 14%, 93%) !default;
+
+$white-ter: hsl(221, 14%, 96%) !default;
+$white-bis: hsl(221, 14%, 98%) !default;
+$white: hsl(221, 14%, 100%) !default;
+
+$orange: #F76D36 !default;
+$yellow: #FFC469 !default;
+$green: #00d084 !default;
+$turquoise: #7bdcb5 !default;
+$cyan: #8ed1fc !default;
+$blue: #179CBA !default;
+$purple: #9b51e0 !default;
+$red: #cf2e2e !default;
+
+@use "bulma/sass" with ($family-primary: '"Noto Sans", sans-serif',
+    $primary: $orange,
+    $link: $orange,
+    $control-border-width: 2px,
+    $input-shadow: none,
+
+    $orange: $orange,
+    $yellow: $yellow,
+    $green: $green,
+    $turquoise: $turquoise,
+    $cyan: $cyan,
+    $blue: $blue,
+    $purple: $purple,
+    $red: $red,
+    $button-weight: 700,
+    $control-radius: 2rem,
+    $button-padding-vertical: 0.7em,
+    $button-padding-horizontal: 1.2em,
+    $body-size: 14px);
+
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans:400,700");
